@@ -14,6 +14,6 @@ ________                      ______________  ___
 To install the tool, clone the repository and use the `setup.py` file to install the necessary dependencies and create a command-line script.
 
 ```sh
-git clone <repository-url>
-cd Open
-pip install .
+git clone https://github.com/AwakenDoldsoul2/OpenRDX..git
+cd OpenRDX.
+pip install 
