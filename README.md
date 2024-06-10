@@ -15,7 +15,10 @@ To install the tool, clone the repository and use the `setup.py` file to install
 
 ```sh
 git clone https://github.com/AwakenDoldsoul2/OpenRDX..git
+
 cd OpenRDX.
+
+pip install -r requirements.txt
 
 For a single URL:
 python3 main.py -u http://example.com -p payloads.txt -o output.txt
